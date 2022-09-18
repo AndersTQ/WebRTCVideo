@@ -1,6 +1,9 @@
 # A project Video-chat-WebRTC is waiting for helper to solve problem!
 
-A 1-on-1 video chat application build with socket.io and WebRTC interface.
+A 1-on-1 video chat application build with socket.io and WebRTC interface. But Big Problem remains!!!
+
+The noice under video chat is very annoying! Who can solve the problem?
+Contributions or any suggestions are always welcome!!!!!!!
 
 ## Installation
 - run 'npm install' or 'yarn' to install all dependencies
@@ -13,7 +16,4 @@ A 1-on-1 video chat application build with socket.io and WebRTC interface.
 This is a small application which is showcasing a way to enable two peers to exchange media streams in a bidirectinal mannner.
 It's using a socket.io to create a signaling service for sending the session description as well as ICE candidates.
 
-Big Problem remains!!!
 
-The noice under video chat is very annoying! Who can solve the problem?
-Contributions or any suggestions are always welcome!!!!!!!
