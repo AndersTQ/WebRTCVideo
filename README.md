@@ -12,4 +12,7 @@ A 1-on-1 video chat application build with socket.io and WebRTC interface.
 This is a small application which is showcasing a way to enable two peers to exchange media streams in a bidirectinal mannner.
 It's using a socket.io to create a signaling service for sending the session description as well as ICE candidates.
 
-Contributions are always welcome.
+Big Problem remains!!!
+
+The noice under video chat is very annoying! Who can solve the problem?
+Contributions or any suggestions are always welcome!!!!!!!
