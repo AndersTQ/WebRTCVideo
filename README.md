@@ -1,4 +1,5 @@
-# Video-chat-WebRTC
+# A project Video-chat-WebRTC is waiting for helper to solve problem!
+
 A 1-on-1 video chat application build with socket.io and WebRTC interface.
 
 ## Installation
